@@ -1,0 +1,8 @@
+name: HardcoreRestart
+version: 1.0.0
+main: com.amazingefren.hardcorerestart.HardcoreRestart
+api-version: 1.17
+commands:
+  deaths:
+    description: Get player death counts
+    usage: /deaths
