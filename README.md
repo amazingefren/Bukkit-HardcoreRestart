@@ -14,4 +14,4 @@ best if used on panel with auto restart (or have server auto restart on crash) a
 3. Delete the world files
 4. Crash the server -- preventing shutdown auto-save and triggering auto-restart if using game-panel (pterodactyl)
 
-`/death` command will send a global message to list all player death counts, if any
+`/deaths` command will send a global message to list all player death counts, if any
